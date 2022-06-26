@@ -9,7 +9,7 @@ Voice Recognition merupakan salah satu bagian dari smart home untuk melakukan fu
 
 ### Interface Alat
 <div id="gui"></div>
-<img src="https://github.com/charlesLangko1234/Voice-Recognition-Using-MATLAB/blob/main/Dokumentasi/smart.png" style="width: 200px; height:260px;"/>
+<img src="https://github.com/charlesLangko1234/Voice-Recognition-Using-MATLAB/blob/main/Dokumentasi/smart.png"/>
 Interface alat adalh sebagai berikut, dimana Audio Input Original dan Audio Input Database adalah grafik yang akan menampilkan signal dari masing-masing audio yang digunakan. Llau terdapat juga kotak Audio Setelah Korelasi, dimana bagian ini berisi grafik audio hasil korelasi anatara dua buah sinyal, yaitu sinyal Audio Input Original dan Audio Input Database. 
 Lalu, disisi kanan kotak grafik terdapat juga voice control, dimana berisi text box untuk emmasukan nama audio dan format audio. Dibagian bawahnya terdapat beberapa button seperti START dimana berfungsi untuk memulai proses korelasi dan menentukan pengenalan audio, RESET untuk menghapus semua data dan gamabaran grafik hasil perhitungan sbeelumnya, dan PLAY AUDIO yang ebrfungsi untuk memainkan audio yan sedang diiput melalui text box.
 Terdapat juga disamping kanan grafik Audio Setelah Korelasi yaitu kotak untuk menampilkan poin hasil korelas dan juga hasil akhirnya. Jika Poin Kecocokan Hasil Korelasi melebihi 300, maka Hasil Ada Atau Tidaknya Audio Yang Cocok DI Databse akan menampilkan kata "Ada" atau "Tidak Ada".

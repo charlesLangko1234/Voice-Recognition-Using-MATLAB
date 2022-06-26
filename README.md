@@ -17,5 +17,5 @@ Terdapat juga disamping kanan grafik Audio Setelah Korelasi yaitu kotak untuk me
 
 ### Code
 <div id="code"></div>
-<img src="https://github.com/charlesLangko1234/Voice-Recognition-Using-MATLAB/blob/main/Dokumentasi/flowchart.png" style="width: 200px; height:260px;"/>
+<img src="https://github.com/charlesLangko1234/Voice-Recognition-Using-MATLAB/blob/main/Dokumentasi/flowchart.png" />
 Flowchart code adalah sebgaia berikut, dimana audio yang diinput serta audio yang ada didtaabase akan diekstrak dan dikorelasi satu persatu. Setelah itu akan didapatkan amplitudo tertinggi dari haris korelasi tersebut. Data audio dengan amplitudo tertinggi akan dibandingkan dengan audio yang ada pada database lalu diambil sinyal audio tersebut. Setelah itu audio akan diputar kembali jika menemukan data auido yang sama. Namun jika tidak ada audio yang sama maka akan terdapat audio yang ebrbunyi  "Access Denied" sebagai tanda bahwa tidak terdapat audio yang sama.
